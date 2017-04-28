@@ -1,0 +1,81 @@
+zone.js:567 Unhandled Promise rejection: (SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app ; Zone: <root> ; Task: Promise.then ; Value: Error: (SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app (SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+consoleError @ zone.js:567
+handleUnhandledRejection @ zone.js:572
+_loop_1 @ zone.js:607
+drainMicroTaskQueue @ zone.js:611
+ZoneTask.invoke @ zone.js:464
+zone.js:569 Error: Uncaught (in promise): Error: (SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+(SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+(SystemJS) Unexpected token <
+	SyntaxError: Unexpected token <
+	    at eval (<anonymous>)
+	    at ZoneDelegate.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:365:26)
+	    at Zone.run (http://localhost:8000/node_modules/zone.js/dist/zone.js:125:43)
+	    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:57
+	    at ZoneDelegate.invokeTask (http://localhost:8000/node_modules/zone.js/dist/zone.js:398:31)
+	Evaluating http://localhost:8000/app
+	Error loading http://localhost:8000/app
+    at resolvePromise (http://localhost:8000/node_modules/zone.js/dist/zone.js:710:31) [<root>]
+    at resolvePromise (http://localhost:8000/node_modules/zone.js/dist/zone.js:681:17) [<root>]
+    at http://localhost:8000/node_modules/zone.js/dist/zone.js:758:17 [<root>]
+    at drainMicroTaskQueue (http://localhost:8000/node_modules/zone.js/dist/zone.js:591:35) [<root>]
+    at XMLHttpRequest.ZoneTask.invoke (http://localhost:8000/node_modules/zone.js/dist/zone.js:464:25) [<root>]
+consoleError @ zone.js:569
+handleUnhandledRejection @ zone.js:572
+_loop_1 @ zone.js:607
+drainMicroTaskQueue @ zone.js:611
+ZoneTask.invoke @ zone.js:464
